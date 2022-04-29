@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ff3ad4f802bf74980f8e9bc36172a4, type: 3}
+  m_Name: FishSticks
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2797601720110250040, guid: 96eb587e0dd182842b0e6bdf7acec3dc, type: 3}
+  type: 0
+  description: 'A griled Fish on a stick
+
+
+    Heals 30 HP
+
+
+    +1 in Inteligence
+    (Duration 30 min)'
+  uiImage: {fileID: 21300000, guid: be1a6edd1461d244c8420c9026e53eff, type: 3}
+  RestoreHealthValue: 30

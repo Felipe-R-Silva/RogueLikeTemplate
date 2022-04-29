@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564e8f24a64c57e4496c64903881b3ea, type: 3}
+  m_Name: TowerShield
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1045381975605420460, guid: d2af5271123b73d45ba957e25dd7712a, type: 3}
+  type: 1
+  description: 'Large Retangular Shield
+
+    Great Defence But Carring this aroung
+    makes it harder to swing your weapon'
+  uiImage: {fileID: 21300000, guid: 4d9543071ad4cda498a91f8ce482ad18, type: 3}
+  AtkBonus: -5
+  DefenceBonus: 100

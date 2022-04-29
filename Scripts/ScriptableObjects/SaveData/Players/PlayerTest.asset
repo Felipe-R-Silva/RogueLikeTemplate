@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbea6c8267a0f34a9acfb66a0467df9, type: 3}
+  m_Name: PlayerTest
+  m_EditorClassIdentifier: 
+  m_PlayerName: Mexicano
+  m_Color: 3
+  m_PlayerLevel: 9
+  m_Health: 78
+  m_PlayerSpawnPoint: {x: 0, y: 0, z: 0}
+  ActiveUIs: 06000000

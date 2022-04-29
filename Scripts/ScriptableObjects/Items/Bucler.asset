@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 564e8f24a64c57e4496c64903881b3ea, type: 3}
+  m_Name: Bucler
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4595309765618639106, guid: 1ae9c5c3bb4b60f4fa2bb7e0b3807009, type: 3}
+  type: 1
+  description: 'Small Round Shield with a spike
+
+    Adds chance of doing some small
+    extra damage and Helps defending '
+  uiImage: {fileID: 21300000, guid: 3ebe04b71112dcb428f378fec714d50d, type: 3}
+  AtkBonus: 2
+  DefenceBonus: 50
